@@ -1,0 +1,82 @@
+Com base nas informações disponíveis do cronograma, da planilha e do documento pré-projeto relacionados ao desenvolvimento de um script para análise técnica da criptomoeda Tron (TRX), segue o Roadmap do Projeto em formato JSON:
+
+```json
+{
+  "Roadmap": {
+    "nome_do_roadmap": "Roadmap - Desenvolvimento de Script para Análise Técnica da Criptomoeda Tron (TRX)",
+    "descrição": "Desenvolver um script que coletará, analisará e visualizará dados da criptomoeda Tron (TRX), com o objetivo de auxiliar traders e investidores em suas decisões.",
+    "objetivos": [
+      "Coletar dados históricos de preços e volumes de negociação da Tron.",
+      "Identificar tendências de mercado e padrões de preços.",
+      "Implementar indicadores técnicos como médias móveis, Fibonacci, RSI e MACD.",
+      "Gerar gráficos para visualizar as tendências e a volatilidade da Tron.",
+      "Produzir relatórios interpretativos baseados nos dados coletados."
+    ],
+    "tecnologias": [
+      "Python",
+      "APIs de dados de criptomoedas (ex: Binance, CoinMarketCap)",
+      "Bibliotecas de gráficos (ex: Matplotlib, Plotly)"
+    ],
+    "stakeholders": [
+      "Usuário final (traders e investidores)",
+      "Desenvolvedor",
+      "Gerente de projeto"
+    ],
+    "etapas_do_projeto": [
+      {
+        "nome": "Coleta de dados históricos da Tron",
+        "data_inicio": "2025-01-02",
+        "data_fim": "2025-01-08",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Identificação de tendências de mercado",
+        "data_inicio": "2025-01-09",
+        "data_fim": "2025-01-15",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Implementação de indicadores técnicos",
+        "data_inicio": "2025-01-16",
+        "data_fim": "2025-01-23",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Geração de gráficos ilustrativos",
+        "data_inicio": "2025-01-24",
+        "data_fim": "2025-01-30",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Produção de relatórios interpretativos",
+        "data_inicio": "2025-01-31",
+        "data_fim": "2025-02-05",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Testes e validação do script",
+        "data_inicio": "2025-02-06",
+        "data_fim": "2025-02-10",
+        "responsavel": "Gerente de projeto"
+      },
+      {
+        "nome": "Lançamento da versão final",
+        "data_inicio": "2025-02-11",
+        "data_fim": "2025-02-15",
+        "responsavel": "Gerente de projeto"
+      }
+    ],
+    "requisitos_funcionais": [
+      "O script deve coletar e processar dados históricos.",
+      "Deve calcular múltiplos indicadores técnicos.",
+      "Permitir visualização dos resultados em gráficos interativos."
+    ],
+    "requisitos_nao_funcionais": [
+      "O script deve ser eficiente no manejo de dados.",
+      "A interface deve ser amigável e intuitiva."
+    ]
+  }
+}
+```
+
+Esse roadmap resume os principais componentes do projeto, incluindo os objetivos, as etapas, as tecnologias utilizadas e os requisitos funcionais e não funcionais. Se precisar de ajuste ou informações adicionais, estou à disposição!
