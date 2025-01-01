@@ -1,0 +1,56 @@
+Com base no Documento Pre Projeto sobre a Criação de Script para Análise Técnica da Criptomoeda Tron (TRX), aqui está o cronograma do projeto em formato JSON:
+
+**Cronograma do Projeto:**
+```json
+{
+  "cronograma": {
+    "etapas": [
+      {
+        "nome": "Coleta de dados históricos da Tron",
+        "data_inicio": "2025-01-02",
+        "data_fim": "2025-01-08",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Identificação de tendências de mercado",
+        "data_inicio": "2025-01-09",
+        "data_fim": "2025-01-15",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Implementação de indicadores técnicos",
+        "data_inicio": "2025-01-16",
+        "data_fim": "2025-01-23",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Geração de gráficos ilustrativos",
+        "data_inicio": "2025-01-24",
+        "data_fim": "2025-01-30",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Produção de relatórios interpretativos",
+        "data_inicio": "2025-01-31",
+        "data_fim": "2025-02-05",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Testes e validação do script",
+        "data_inicio": "2025-02-06",
+        "data_fim": "2025-02-10",
+        "responsavel": "Gerente de projeto"
+      },
+      {
+        "nome": "Lançamento da versão final",
+        "data_inicio": "2025-02-11",
+        "data_fim": "2025-02-15",
+        "responsavel": "Gerente de projeto"
+      }
+    ]
+  },
+  "nome_do_cronograma": "Cronograma - Criação de Script para Análise Técnica da Criptomoeda Tron (TRX)"
+}
+```
+
+Este cronograma inclui as etapas principais do projeto, as datas de início e fim, e os responsáveis por cada etapa. Se precisar de mais informações ou ajustes, por favor, me avise!
