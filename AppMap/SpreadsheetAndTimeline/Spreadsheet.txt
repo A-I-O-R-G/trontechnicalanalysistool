@@ -1,0 +1,84 @@
+Com base no Documento Pre Projeto e no cronograma armazenados, aqui está a planilha do projeto em formato JSON:
+
+**Planilha do Projeto:**
+```json
+{
+  "planilha": {
+    "objetivos": [
+      "Coletar dados históricos de preços e volumes de negociação da Tron.",
+      "Identificar tendências de mercado e padrões de preços.",
+      "Implementar indicadores técnicos como médias móveis, Fibonacci, RSI, e MACD.",
+      "Gerar gráficos para visualizar tendências e volatilidade da Tron.",
+      "Produzir relatórios para auxiliar na interpretação dos dados."
+    ],
+    "requisitos_funcionais": [
+      "O script deve coletar e processar dados históricos.",
+      "Deve calcular diversos indicadores técnicos.",
+      "Possibilitar a visualização dos resultados em gráficos interativos."
+    ],
+    "requisitos_nao_funcionais": [
+      "O script deve ser eficiente no processamento de dados.",
+      "A interface deve ser fácil de usar e intuitiva."
+    ],
+    "tecnologias": [
+      "Python",
+      "APIs de dados de criptomoedas (ex: Binance, CoinMarketCap)",
+      "Bibliotecas para gráficos (ex: Matplotlib, Plotly)"
+    ],
+    "stakeholders": [
+      "Usuário final (traders e investidores)",
+      "Desenvolvedor",
+      "Gerente de projeto"
+    ],
+    "cronograma": {
+      "etapas": [
+        {
+          "nome": "Coleta de dados históricos da Tron",
+          "data_inicio": "2025-01-02",
+          "data_fim": "2025-01-08",
+          "responsavel": "Desenvolvedor"
+        },
+        {
+          "nome": "Identificação de tendências de mercado",
+          "data_inicio": "2025-01-09",
+          "data_fim": "2025-01-15",
+          "responsavel": "Desenvolvedor"
+        },
+        {
+          "nome": "Implementação de indicadores técnicos",
+          "data_inicio": "2025-01-16",
+          "data_fim": "2025-01-23",
+          "responsavel": "Desenvolvedor"
+        },
+        {
+          "nome": "Geração de gráficos ilustrativos",
+          "data_inicio": "2025-01-24",
+          "data_fim": "2025-01-30",
+          "responsavel": "Desenvolvedor"
+        },
+        {
+          "nome": "Produção de relatórios interpretativos",
+          "data_inicio": "2025-01-31",
+          "data_fim": "2025-02-05",
+          "responsavel": "Desenvolvedor"
+        },
+        {
+          "nome": "Testes e validação do script",
+          "data_inicio": "2025-02-06",
+          "data_fim": "2025-02-10",
+          "responsavel": "Gerente de projeto"
+        },
+        {
+          "nome": "Lançamento da versão final",
+          "data_inicio": "2025-02-11",
+          "data_fim": "2025-02-15",
+          "responsavel": "Gerente de projeto"
+        }
+      ]
+    }
+  },
+  "nome_da_planilha": "Planilha - Criação de Script para Análise Técnica da Criptomoeda Tron (TRX)"
+}
+```
+
+Esta planilha inclui os objetivos, requisitos funcionais e não funcionais, tecnologias relevantes, stakeholders e o cronograma detalhando cada etapa do projeto. Se precisar de mais informações ou ajustes, por favor, me avise!
