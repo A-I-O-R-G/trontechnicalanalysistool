@@ -1,0 +1,38 @@
+```json
+{
+  "doc_Pre_Projeto": {
+    "titulo": "Criação de Script para Análise Técnica da Criptomoeda Tron (TRX)",
+    "data_criacao": "2025-01-01 11:56:59",
+    "descricao": "O usuário está solicitando a criação de um script destinado à análise técnica da criptomoeda Tron (TRX). Essa análise envolverá a coleta de dados históricos de preços e volumes de negociação da Tron, com o objetivo de identificar tendências de mercado e padrões nos preços. O script deverá implementar diversos indicadores técnicos utilizados na análise de criptomoedas, como médias móveis, Fibonacci, RSI (índice de força relativa) e MACD (Moving Average Convergence Divergence). Além disso, deverá incluir a capacidade de gerar gráficos ilustrativos para visualizar as tendências e a volatilidade da Tron ao longo do tempo, bem como relatórios que auxiliem na interpretação dos dados. A ferramenta será útil para traders e investidores que desejam fazer decisões informadas baseadas em análises detalhadas do desempenho da Tron no mercado.",
+    "objetivos": [
+      "Coletar dados históricos de preços e volumes de negociação da Tron.",
+      "Identificar tendências de mercado e padrões de preços.",
+      "Implementar indicadores técnicos como médias móveis, Fibonacci, RSI, e MACD.",
+      "Gerar gráficos para visualizar tendências e volatilidade da Tron.",
+      "Produzir relatórios para auxiliar na interpretação dos dados."
+    ],
+    "requisitos": {
+      "funcionais": [
+        "O script deve coletar e processar dados históricos.",
+        "Deve calcular diversos indicadores técnicos.",
+        "Possibilitar a visualização dos resultados em gráficos interativos."
+      ],
+      "nao_funcionais": [
+        "O script deve ser eficiente no processamento de dados.",
+        "A interface deve ser fácil de usar e intuitiva."
+      ]
+    },
+    "tecnologias": [
+      "Python",
+      "APIs de dados de criptomoedas (ex: Binance, CoinMarketCap)",
+      "Bibliotecas para gráficos (ex: Matplotlib, Plotly)"
+    ],
+    "stakeholders": [
+      "Usuário final (traders e investidores)",
+      "Desenvolvedor",
+      "Gerente de projeto"
+    ]
+  },
+  "name_doc_Pre_Projeto": "Documento Pre-Projeto - Análise Técnica da Criptomoeda Tron (TRX)"
+}
+```
